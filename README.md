@@ -15,4 +15,5 @@ and it will open up $EDITOR.
 Or I can view list of notes via
 
 `vinote list`
+
 ![screenshot](screenshot.png)
